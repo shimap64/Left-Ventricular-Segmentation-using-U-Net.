@@ -1,9 +1,11 @@
-Overview
+Overview:
+
 This project implements a U-Net-based architecture for the segmentation of the left ventricle in medical images.
 U-Net is a popular convolutional neural network designed for biomedical image segmentation tasks. 
 The implementation includes data augmentation, model training, evaluation metrics, and visualization of results.
 
 Steps in the Code:
+
 1. Environment Setup
 TensorFlow is used as the primary library for building and training the U-Net model.
 The availability of GPU is checked for optimized performance.
